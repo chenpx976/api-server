@@ -4,7 +4,7 @@
   "description": "",
   "main": "generate.js",
   "scripts": {
-    "start": "json-server generate.js -w -r routes.json -H 172.22.86.110",
+    "start": "json-server generate.js -w -r routes.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
