@@ -1,0 +1,17 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "start": "json-server generate.js -w -r routes.json -H 172.22.86.110",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^3.1.0",
+    "json-server": "^0.8.17",
+    "lodash": "^4.14.1"
+  }
+}

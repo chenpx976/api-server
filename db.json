@@ -1,0 +1,49 @@
+{
+    "getBasicData": {
+        "no": 0,
+        "error": "success",
+        "data": {
+            "img": [{
+                "id": "1",
+                "type": "1",
+                "img_url": "http://test.baidu.com",
+                "text": "have a test",
+                "jump_url": "http://test.baidu.com",
+                "status": "2",
+                "create_time": "1470142963",
+                "update_time": "1470143344",
+                "op_user": "chenzude"
+            }],
+            "record_url": "",
+            "user_id": 0,
+            "user_name": ""
+        }
+    },
+    "getProductContentList": {
+        "no": 0,
+        "error": "",
+        "data": {
+            "rows": [{
+                "id": "",
+                "type": "",
+                "type_name": "",
+                "product_name": "",
+                "img_url": "",
+                "jump_url": "",
+                "content": {
+                    "target_money": "众筹目标",
+                    "support_num": "支持的人数",
+                    "supported_money": "已众筹的钱",
+                    "money_type": "1表示人民币，有新类别是再新增",
+                    "progress_stage": "产品进度，0表示未开始；1表示进行中；",
+                    "progress_bar": "40",
+                    "left_days": "10"
+                },
+                "start_time": "",
+                "finish_time": ""
+            }],
+            "total": 100
+        }
+    }
+
+}
