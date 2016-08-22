@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "faker": "registry:dt/faker#0.0.0+20160406111603",
+    "lodash": "registry:dt/lodash#4.14.0+20160817155621"
+  }
+}
