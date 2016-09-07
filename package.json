@@ -2,9 +2,9 @@
   "name": "api-server",
   "version": "1.0.0",
   "description": "",
-  "main": "generate.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server generate.js -w -r routes.json",
+    "start": "json-server server.js -w -r routes.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
